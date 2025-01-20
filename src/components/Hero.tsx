@@ -129,7 +129,7 @@ const Hero = () => {
                 transition={{ type: "spring", stiffness: 300 }}
               >
                 <img
-                  src="https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/458750258_3441373576155203_6023659288497880561_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=9FtLAgUOeqEQ7kNvgGkWohI&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=AgQVYtWP8-PlMaIWLidcK00&oh=00_AYAtnb9BJKEOX6ooVHnyn2tp8ogHoIop9sYEMHGcZatYBw&oe=678B2FA6"
+                  src="https://tgihost.pages.dev/image?id=BQACAgUAAx0EfBziBwACAdZnjafqcnhIC9UTtwcC-tBi2FurpwAC5RAAAsq2aVTMaK5-_L2NqTYE"
                   alt="Anas Ibn Belal"
                   className="rounded-2xl shadow-lg w-full aspect-square object-cover"
                 />
