@@ -133,6 +133,7 @@ const Hero = () => {
                   alt="Anas Ibn Belal"
                   className="rounded-2xl shadow-lg w-full aspect-square object-cover"
                 />
+                {/* Image Link Fixed !! */}
               </motion.div>
             </div>
           </motion.div>
