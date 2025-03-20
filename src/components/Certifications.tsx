@@ -36,6 +36,13 @@ const certifications = [
     date: "Spring 2024",
     credentialId: "Participation",
     image: "https://tgihost.pages.dev/image?id=BQACAgUAAx0EfBziBwACAdNnh83tPA9ityoAAbIfp4xc6bu8Ji4AAucWAALM_zhU92zJHWoDzEw2BA"
+  },
+  {
+    title: "Web Developement Bootcamp 2025",
+    issuer: "Programming Hero",
+    date: "Spring 2025",
+    credentialId: "Participation",
+    image: "https://ibb.co.com/QFFcZkNv"
   }
 ];
 
