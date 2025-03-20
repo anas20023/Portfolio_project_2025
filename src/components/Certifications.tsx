@@ -42,7 +42,7 @@ const certifications = [
     issuer: "Programming Hero",
     date: "Spring 2025",
     credentialId: "Participation",
-    image: "https://ibb.co.com/YBfWxVhN"
+    image: "https://i.ibb.co.com/B2TP9YBf/webcamp24.jpg"
   }
 ];
 
