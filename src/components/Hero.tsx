@@ -38,9 +38,7 @@ const Hero = () => {
               transition={{ delay: 0.4 }}
               className="text-base-content/80 text-lg leading-relaxed max-w-2xl"
             >
-              As a web Developer with four years of experience, I specialize in creating 
-              visually appealing and user-friendly websites. My expertise includes responsive 
-              design, UI/UX principles, and collaborating with clients to bring their visions to life.
+             Aspiring Software Engineer with strong problem-solving skills and MERN stack expertise, passionate about building modern web applications. Eager to mentor and teach, helping others grow alongside my learning journey.
             </motion.p>
 
             <motion.div 
